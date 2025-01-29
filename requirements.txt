@@ -4,3 +4,4 @@ pandas
 pandas-ta==0.3.14b0
 scikit-learn==1.6.0
 plotly
+setuptools
